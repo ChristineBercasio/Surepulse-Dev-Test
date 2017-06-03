@@ -1,0 +1,185 @@
+body{
+	font-family: "Abscissa Regular";
+	overflow-x: hidden;
+}
+
+.head{
+	background-color: #e29b9b;
+}
+
+.logo{
+	font-size: 50px;
+	color: white;
+	margin-left: 25px;
+}
+
+.logo-title{
+	text-decoration: none;
+	color: white;
+}
+
+.logo-title:hover{
+	text-decoration: none;
+	color: black;
+}
+
+.user-icon{
+	float: left;
+	margin-top: 12px;
+}
+
+.arrow-down{
+	height: 15px;
+	width: 15px;
+	float: right;
+	margin-left: 50px;
+	margin-top: -30px;	
+	border: none;
+}
+
+
+.dropdown-menu{
+	margin-top: 70px;
+}
+
+.sidebar{
+	background-color: #ad7272;
+}
+
+.nav{
+	font-size: 20px;
+}
+
+.hr{
+	margin-left: -15px;
+	width: 285px;
+	border: 1.5px solid white;
+}
+
+.link{
+	color: white;
+	margin-top: 15px;
+	margin-left: 15px;
+
+}
+
+.link:hover{
+	color: black;
+	background: pink;
+}
+
+.det{
+	margin-top: 20px;
+	font-size: 17px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+.user{
+	width: 30px;
+	height: 30px;
+	float: right;
+	margin-right: 15px;
+}
+
+.todo{
+	width: 40px;
+	height: 40px;
+	float: right;
+	margin-right: 15px;
+}
+
+.photo{
+	width: 30px;
+	height: 30px;
+	float: right;
+	margin-right: 15px;
+}
+
+.album{
+	width: 30px;
+	height: 30px;
+	float: right;
+	margin-right: 15px;
+}
+
+.post{
+	width: 30px;
+	height: 30px;
+	float: right;
+	margin-right: 15px;
+}
+
+.comment{
+	width: 30px;
+	height: 30px;
+	float: right;
+	margin-right: 15px;
+}
+
+.greet-title{
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 25px;
+}
+
+.tbl{
+	margin-top: 7px;
+	margin-left: 15px;
+	font-size: 16px;
+}
+
+.table{
+	text-align: justify;
+}
+
+.att{
+	text-align: justify;
+}
+
+.calendar{
+	margin-top: 50px;
+}
+
+.notes{
+	margin-top: 25px;
+}
+
+.title{
+	font-size: 18px;
+}
+
+#editor{
+	width: 150px;
+}
+
+/*USER PAGE*/
+.tbl-user{
+	margin-top: 50px;
+	margin-left: 40px;
+	font-size: 16px;
+}
+
+.ttle{
+	margin-top: -30px;
+	font-size: 16px;
+	float: right;
+	margin-right: 25px;
+}
+
+.plus{
+	float: right;
+	margin-left: 10px;
+	margin-top: 3px;
+	color: black;
+}
+
+.user-list{
+	margin-top: 4px;
+}
+
+.win, .pen, .trash{
+	color: black;
+}
+
